@@ -1,3 +1,11 @@
+This project requires Edamam Recipe API Key to run.
+Please get your API key from https://developer.edamam.com/admin/account and paste the credentials in a file named "ApiKey.js"
+The template of the file ApiKey.js is
+export const AppId = "YOUR ID"
+export const ApiKey = "YOUR KEY"
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
