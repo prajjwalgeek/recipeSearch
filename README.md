@@ -5,6 +5,9 @@ Please get your API key from https://developer.edamam.com/admin/account and past
 ### export const ApiKey = "YOUR KEY"
 
 
+##Live Link Of Deployed App:
+
+https://recipesearch-prajj.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
